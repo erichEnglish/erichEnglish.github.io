@@ -9,14 +9,14 @@ body {
 }
 
 header, footer {
-  background-color: #ffa500;
+  background-color: #bc6c25;
   text-align: left;
 /*  min-width: 500px; */
 }
 
 header {
   font-family: 'Source Sans Pro', sans-serif;
-  color: #fff;
+  color: #fefae0;
   min-height: 100vh;
   display: flex;
 }
@@ -47,7 +47,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffa500;
+  color: #bc6c25;
   padding: 10px 0px 10px 10px;
 }
 
@@ -65,7 +65,7 @@ img {
 }
 
 .bio {
-  color: #ffffff;
+  color: #fefae0;
   font-size: 24px;
   font-family: ''Source Sans Pro', sans-serif';
 }
@@ -78,9 +78,9 @@ img {
 
 .myButton {
   border-radius: 28px;
-  border: 1px solid #ffffff;
+  border: 1px solid #fefae0;
   cursor: pointer;
-  color: #ffffff;
+  color: #fefae0;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
@@ -88,7 +88,7 @@ img {
 }
 
 .myButton:hover {
-    background-color:#e69708;
+    background-color:#283618;
 }
 
 .myButton:active {
@@ -102,7 +102,7 @@ img {
 }
 
 .a {
-
+  color: #2a9d8f;
 }
 
 .c {
@@ -123,7 +123,7 @@ img {
   font-weight: 500;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #4a4a4a;
+  color: #606c38;
   position: relative;
   bottom: 5px;
 }
@@ -135,9 +135,9 @@ img {
   line-height: 1.29;
   letter-spacing: 0.1px;
   text-align: left;
-  color: #4a4a4a;
+  color: #606c38;
   padding: 10px 0px 10px 10px;
-  border-top: 1px solid #4a4a4a;
+  border-top: 1px solid #606c38;
 }
 
 .logo {
