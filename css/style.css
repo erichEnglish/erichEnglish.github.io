@@ -18,6 +18,9 @@ header, footer {
 }
 
 header {
+  background-image: url('../images/bg.jpg');
+  background-size: cover;
+  background-position: center center;
   font-family: 'Source Sans Pro', sans-serif;
   color: #fefae0;
   min-height: 100vh;
