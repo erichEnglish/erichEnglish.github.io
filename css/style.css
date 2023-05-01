@@ -61,6 +61,7 @@ img {
   width: 100%;
   height: 50vh;
   object-fit: cover;
+  object-position: top;
 }
 
 .wrapper {
@@ -102,7 +103,7 @@ img {
     top:1px;
 }
 
-.recipe {
+.project {
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
   width: 100%;
 }
