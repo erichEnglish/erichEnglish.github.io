@@ -136,14 +136,14 @@ img {
 
 .description {
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 300;
   line-height: 1.29;
   letter-spacing: 0.1px;
   text-align: left;
-  color: #606c38;
+  color: #215f2b;
   padding: 10px 0px 10px 10px;
-  border-top: 1px solid #606c38;
+  border-top: 1px solid #944514;
 }
 
 .logo {
